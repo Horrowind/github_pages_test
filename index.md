@@ -1,3 +1,6 @@
+<script type="text/javascript" async src="mathJax.js"</script>
+
+
 Test header
 -----------
 
