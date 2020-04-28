@@ -1,6 +1,3 @@
-<script type="text/javascript" async src="mathJax.js"</script>
-
-
 Test header
 -----------
 
@@ -12,7 +9,4 @@ Combined emphasis with **asterisks and _underscores_**.
 
 Strikethrough uses two tildes. ~~Scratch this.~~
 
-\[
-    \alpha x - \alpha_0 a_0 = \sum_{i=1}^m \beta_i b_i \qquad \implies \qquad
-    \alpha x = \alpha_0 a_0 + \sum_{i=1}^m \beta_i b_i\,.
-\]
+<img src="/tex/41002fc9692a901b082d546a2122a63a.svg?invert_in_darkmode&sanitize=true" align=middle width=440.56099889999996pt height=26.438629799999987pt/>
