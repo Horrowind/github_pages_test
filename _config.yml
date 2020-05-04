@@ -3,3 +3,4 @@ title: null
 collections:
     topics:
         output: false
+markdown: kramdown
