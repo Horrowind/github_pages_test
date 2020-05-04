@@ -28,8 +28,7 @@ $$
 Die **reduzierte Euler-Charakteristik** eines Simplizialkomplexes $\Gamma$ ist $\rEuler(\Gamma) = \sum_{\tau \in \Gamma} (-1)^{|\tau|-1}$. Damit bekommen wir
 
 $$
-\sum_{a \in \A} \sum_{K \text{ free}, a \in K}  (-1)^{|K|}
-\ = \ \sum_{a \in \A} \rEuler(\lk_\Delta(a))
+\sum_{a \in \A} \sum_{K \text{ free}, a \in K}  (-1)^{|K|} \ = \ \sum_{a \in \A} \rEuler(\lk_\Delta(a))
 $$
 
 Für den Beweis der Formel reicht es also zu zeigen, dass $\rEuler(\lk_\Delta(a)) = (-1)^{d-1}$ falls $a \in \int\conv(\A)) $ und $=0$ sonst. Genauer werden wir uns mit der Topologie von $\Delta$ und $\lk_\Delta(a)$ beschäftigen, wie es in dem Artikel
