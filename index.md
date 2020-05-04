@@ -25,7 +25,10 @@ $$
 \lk_\Delta(\tau) \ := \ \{ \sigma \in \Delta : \sigma \cup \tau \in \Delta, \sigma \cap \tau = \emptyset \}
 $$
 
-Die **reduzierte Euler-Charakteristik** eines Simplizialkomplexes $\Gamma$ ist $\rEuler(\Gamma) = \sum_{\tau \in \Gamma} (-1)^{|\tau|-1}$. Damit bekommen wir
+Die **reduzierte Euler-Charakteristik** eines Simplizialkomplexes $\Gamma$ ist 
+$$\rEuler(\Gamma) = \sum_{\tau \in \Gamma} (-1)^{|\tau|-1}.$$
+
+Damit bekommen wir
 
 $$
 \sum_{a \in \A} \sum_{K \text{ free}, a \in K}  (-1)^{|K|} \ = \ \sum_{a \in \A} \rEuler(\lk_\Delta(a))
